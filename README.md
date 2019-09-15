@@ -1,2 +1,2 @@
-# random-notes
-Random notes!
+# Playground
+Notes, Code Snippets, Notebooks and so on. 
