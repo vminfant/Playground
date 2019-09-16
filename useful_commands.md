@@ -11,3 +11,7 @@ cat /etc/passwd | grep <username>
 ```
 cat /etc/system-release
 ```
+* Give sudo access to an exisiting user
+```
+usermod -aG sudo <username>
+```
