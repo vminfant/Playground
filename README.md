@@ -55,7 +55,7 @@ Notebook or Program Name | Purpose | Additional Notes
 [Flip Coin](https://nbviewer.jupyter.org/github/vminfant/Playground/blob/master/python_notebooks/flip_coin.ipynb)| Experiment to find the probability of getting a head when flipping a coin |
 [K-Means](https://nbviewer.jupyter.org/github/vminfant/Playground/blob/master/python_notebooks/k_means.ipynb)| Hands-on notebook for K-Means Clustering using random samples generated.
 [Monty Hall](https://nbviewer.jupyter.org/github/vminfant/Playground/blob/master/python_notebooks/monty_hall.ipynb)|Experiment for the famous Monty Hall Problem | Remember to stay with your decision! :)
-[Birthdays](hhttps://nbviewer.jupyter.org/github/vminfant/Playground/blob/master/python_notebooks/same_birth_days.ipynb)|Experiment to Find the probability of two adults having same birth days in a group of 60 adults | _Relative Frequency Approach_
+[Birthdays](https://nbviewer.jupyter.org/github/vminfant/Playground/blob/master/python_notebooks/same_birth_days.ipynb)|Experiment to Find the probability of two adults having same birth days in a group of 60 adults | _Relative Frequency Approach_
 
 ## SQL
 
